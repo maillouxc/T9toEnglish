@@ -1,0 +1,8 @@
+*.class
+*.dll
+*.exe
+*.jar
+*.tar
+*.zip
+*.sql
+bin/*
